@@ -1,0 +1,58 @@
+.sec-commentes{
+    width: 100%;
+    height: 100vh;
+    margin-top: 5vw;
+}
+
+.form-values .FaStar{
+    color: orange;
+    margin: 5px;
+}
+
+
+.form-comment{
+    width: 50%;
+    margin-top: 5vw;
+    text-align: center;
+}
+
+.form-values .nameand-email{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.form-values input{
+    border: 1px solid rgb(19, 18, 18);
+    display: block;
+    width: 40%;
+    margin: 1vw auto;
+    padding: .5vw ;
+    border-radius: 15px;
+
+}
+.form-values .YourComment{
+    border: 1px solid black;
+    border-radius: 15px;
+    padding: .5vw;
+    color: black;
+}
+.form-values .AddComment-btn{
+    border: none;
+    color: white;
+    background-color: #7FD3DF;
+    padding: 12px 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 600;
+    border-radius: 12px;
+    
+}
+.form-values .Assessment-stars{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.test{
+    text-align: center;
+    font-size: 50px;
+}

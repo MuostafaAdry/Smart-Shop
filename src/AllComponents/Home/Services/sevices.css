@@ -1,0 +1,123 @@
+.sec-services {
+  margin-top: 12vw;
+}
+
+.SwiperSlide {
+  margin-bottom: 5vw;
+}
+
+.SwiperSlide .div-sevices {
+  /* border: 1px solid red; */
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.div-sevices .img-div {
+  margin-left: 20px;
+}
+
+.slider-text .slider-text-h6 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+.slider-text .slider-text-p {
+  font-family: "Times New Roman", Times, serif;
+}
+.hr-services {
+  color: #93cade;
+}
+
+@media only screen and (max-width: 600px) {
+  .SwiperSlide {
+    margin: 0vw 15vw 10vw 15vw;
+  }
+  .SwiperSlide .div-sevices {
+    display: block;
+  }
+}
+/* =============== */
+
+/* START SECTION BANER */
+.sec-baner {
+  margin: 5vw 0vw;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.Notifications1 {
+  width: 90%;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #ffdbdf;
+}
+
+.Notifications1 .Notifications1-info {
+  text-align: center;
+}
+.Notifications1-info .Notifications1-info-h3 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+.Notifications1-info .Notifications1-info-h6 {
+  font-family: "Times New Roman", Times, serif;
+}
+.Notifications1 .Notifications1-info .baner-btn {
+  margin-top: 2vw;
+  border: none;
+  border-radius: 50px;
+  padding: 15px;
+  background-color: #7fd3df;
+  color: white;
+  font-weight: 450;
+}
+
+.Notifications1 .Notifications1-baner {
+  width: 50%;
+}
+.Notifications1-baner .baner1 {
+  width: 100%;
+}
+
+.Notifications2 {
+  margin-left: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #d6f7fe;
+  width: 100%;
+}
+
+.Notifications2 .Notifications2-info {
+  text-align: center;
+}
+
+.Notifications2 .Notifications2-info .baner-btn {
+  margin-top: 2vw;
+  border: none;
+  border-radius: 50px;
+  padding: 15px;
+  background-color: #7fd3df;
+  color: white;
+  font-weight: 450;
+}
+.Notifications2 .Notifications2-baner {
+  width: 50%;
+}
+.Notifications2-baner .baner2 {
+  width: 100%;
+}
+
+.Notifications2-info .Notifications2-info-h3 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+.Notifications2-info .Notifications2-info-h6 {
+  font-family: "Times New Roman", Times, serif;
+}
+
+
+@media only screen and (min-width: 280px) {
+  .Notifications2 {
+    margin-left: 0px;}
+}
+

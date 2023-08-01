@@ -1,0 +1,88 @@
+.SubNave{
+    margin-top: 0vw !important;
+    width: 100%;
+    height: 30vh;
+    position: relative;
+   
+
+}
+.SubNave .subnave-links-div{
+    position: absolute;
+    margin-left: -15vw;
+    margin-top: 7%;
+    text-align: center;
+
+   
+}
+.subnave-links-div .subnave-heading{
+    margin: 1vw 0vw ;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    font-size: 40px;
+}
+.subnave-links-div .spanandlink .thesepage{
+    font-size: 22px;
+    color: white;
+    font-weight: 500;
+    cursor: pointer;
+    margin-right: 0px;
+}
+.subnave-links-div .spanandlink .prev-page{
+    text-decoration: none;
+    font-size: 22px;
+    color: white;
+    font-weight: 500;
+    margin-left: 10px;
+    cursor: pointer
+
+}
+.SubNave .subnave-img-contain{
+    width: 100%;
+    min-height: 40vh;
+}
+.SubNave .subnave-img{
+    width: 100%;
+    min-height:30vh;
+}
+
+
+@media only screen and (max-width: 600px) {
+    .subnave-links-div .subnave-heading{
+        font-size: 25px;
+    }
+    .SubNave .subnave-links-div{
+        margin: 20vw 0vw 0vw 3vw;
+    }
+
+}
+
+@media only screen and (width: 540px) {
+    .subnave-links-div .subnave-heading{
+        font-size: 25px;
+    }
+    .SubNave .subnave-links-div{
+        margin: 10vw 0vw 0vw -20vw;
+    }
+
+}
+
+@media only screen and (width: 280px) {
+    .subnave-links-div .subnave-heading{
+        font-size: 17px;
+    }
+    .SubNave .subnave-links-div{
+        margin: 35vw 0vw 0vw 0vw;
+    }
+    .subnave-links-div .spanandlink .thesepage{
+        font-size: 17px !important;
+        
+    }
+    .subnave-links-div .spanandlink .prev-page{
+        text-decoration: none;
+        font-size: 17px;
+        color: white;
+        cursor: pointer
+    
+    }
+
+}

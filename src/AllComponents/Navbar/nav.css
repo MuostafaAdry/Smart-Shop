@@ -1,0 +1,40 @@
+.navlink {
+  color: black;
+  text-decoration: none;
+  margin-left: 30px;
+  font-size: 21px;
+}
+
+.bg-body-tertiary .NavLike {
+  color: gray;
+  margin: 5px;
+  font-size: 22px;
+}
+
+.bg-body-tertiary .fa-magnifying-glass,
+.fa-user,
+.fa-cart-shopping {
+  cursor: pointer;
+  margin: 5px;
+  font-size: 22px;
+  color: gray;
+}
+.nav-form{
+  position: relative;
+}
+.nav-form .CountCart{
+  position: absolute;
+  margin: -12px 0px 0px 10px;
+  padding: 0px 4px;
+  border-radius: 50%;
+  background-color: #54A4AF;
+  color: white;
+}
+.Signin-btn{
+    padding: 5px 10px;
+    border: none;
+    margin: 0vw 1vw;
+    border-radius: 9px;
+    background-color: #54A4AF;
+    color: white;
+}

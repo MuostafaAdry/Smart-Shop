@@ -1,0 +1,57 @@
+.Signin {
+    width: 100%;
+    height: 100vh;
+  }
+  .Signin .sec-form {
+    border: 1px solid gray;
+    border-radius: 8px;
+  }
+  .Signin .form-tittle {
+    text-align: center;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-weight: 600;
+    margin-top: 15%;
+  }
+  
+  .Signin .form-heading {
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+    font-weight: 450;
+  }
+
+  .Signin .Signinimg-container {
+    width: 50%;
+  }
+  .Signin .Signinimg {
+    width: 100%;
+  }
+  .Signin-form {
+    margin-top: 5%;
+  }
+  .Signin-form input {
+    display: block;
+    width: 50%;
+    margin: 1vw 30%;
+    border: 1px solid black;
+    padding: 10px;
+    border-radius: 15px;
+  }
+  .Signin-form .Create-btn {
+    width: 20%;
+    margin: 1vw 40%;
+    background-color: #7fd3df;
+    padding: .5vw 1vw;
+    border: none;
+    color: white;
+    border-radius: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+  }
+  
+  @media only screen and (max-width:600px)  {
+      .Signin .Signinimg-container {
+          width: 100%;
+          margin-top: 2vw;
+        }
+  }
+  

@@ -1,0 +1,70 @@
+{
+    "Products":[
+        {
+            "id": 1,
+            "imgurl": "/images/ProductCard1.png",
+            "price": "80 L.E",
+            "ProductName": "autumn t-shirt"
+          },
+          {
+            "id": 2,
+            "imgurl": "/images/ProductCard9.png",
+            "price": "12200 L.E",
+            "ProductName": "White T-shirt"
+          },
+          {
+            "id": 3,
+            "imgurl": "/images/ProductCard10.png",
+            "price": "900 L.E",
+            "ProductName": "Kids Blouse "
+          },
+          {
+            "id": 4,
+            "imgurl": "/images/ProductCard411.png",
+            "price": "1500 L.E",
+            "ProductName": "White dress "
+          },
+          {
+            "id": 5,
+            "imgurl": "/images/ProductCard2.png",
+            "price": "1000 L.E",
+            "ProductName": "White drees"
+          },
+          {
+            "id": 6,
+            "imgurl": "/images/ProductCard3.png",
+            "price": "500 L.E",
+            "ProductName": " black drees"
+          },
+          {
+            "id": 7,
+            "imgurl": "/images/ProductCard4.png",
+            "price": "800 L.E",
+            "ProductName": "White drees"
+          },
+          {
+            "id": 8,
+            "imgurl": "/images/ProductCard5.png",
+            "price": "2000 L.E",
+            "ProductName": "White blouse"
+          },
+          {
+            "id": 9,
+            "imgurl": "/images/ProductCard6.png",
+            "price": "2500 L.E",
+            "ProductName": "Kids Shirt "
+          },
+          {
+            "id": 10,
+            "imgurl": "/images/ProductCard7.png",
+            "price": "920 L.E",
+            "ProductName": "men Shirt"
+          },
+          {
+            "id": 11,
+            "imgurl": "/images/ProductCard8.png",
+            "price": "1010 L.E",
+            "ProductName": "gairl blouse"
+          }
+    ]
+}

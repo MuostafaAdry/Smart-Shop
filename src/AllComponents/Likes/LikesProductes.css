@@ -1,0 +1,8 @@
+.your-likes{
+    display: inline-block;
+    position: absolute;
+    font-size: 25px;
+    color: red;
+    margin:20px 0px 0px 250px;
+    cursor: pointer;
+}

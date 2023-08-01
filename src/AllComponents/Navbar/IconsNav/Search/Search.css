@@ -1,0 +1,66 @@
+.main-search {
+  position: relative;
+}
+
+.main-search .Container-search {
+  position: absolute;
+  position: fixed;
+  top: 100px;
+  width: 40%;
+  height: 30vh;
+  background-color: #93cade;
+  z-index: 99;
+  margin-left: 45%;
+  padding: 1vw;
+  border-radius: 7px;
+  margin-top: 1%;
+}
+
+.Container-search .close-search {
+  color: white;
+  margin-left: 90%;
+  border: 1px solid black;
+  border-radius: 4px;
+  display: inline-block;
+  cursor: pointer;
+  padding: 1px 15px;
+  margin-top: -10px;
+}
+
+.search-text .search-heading {
+  margin-left: 66%;
+  margin-bottom: 1vw;
+  font-weight: 600;
+  font-family: "Times New Roman", Times, serif;
+}
+.search-text .search-fild {
+  width: 100%;
+  border: none;
+  background-color: transparent;
+  border-bottom: 1px solid black;
+  padding-left: 1vw;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+.search-text .fa-magnifying-glass {
+  position: absolute;
+  color: white;
+  margin-left: 90%;
+}
+
+@media only screen and (max-width:600px){
+  .main-search .Container-search {
+      min-width: 50%;
+  }
+  .search-text .search-fild {
+    width: 100%;
+  }.search-text .search-heading {
+    margin-left: 10%;
+  }
+  .Container-search .close-search {
+    margin:7% 0% 0% 70% ;
+  }
+  .search-text .fa-magnifying-glass {
+    margin-left: 85%;
+    margin-top: 3%;
+  }
+}

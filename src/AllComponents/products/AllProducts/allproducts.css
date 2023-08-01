@@ -1,0 +1,204 @@
+.contain-imgurl{
+    width: 80%;  
+}
+.imgurl{
+    width: 100%;
+}
+.likeproduct{
+    display: inline-block;
+    position: absolute;
+    margin: 20px 0px 0px 210px;
+    font-size: 21px;
+    cursor: pointer;
+}
+
+.priceandstarts,.priceandname{
+display: flex;
+}
+.priceandstarts .price{
+    color: #7FD3DF;
+    margin-right: 30%;
+    margin-left: 1vw;
+}
+.priceandstarts .fa-star{
+    font-size: 12px;
+}
+.priceandstarts .colored{
+    font-size: 12px;
+    color: orange;
+}
+
+.priceandname{
+    margin-top: -1vw;
+}
+.priceandname .price{
+    color: #7FD3DF;
+    margin-right: 20%;
+    margin-left: 1vw;
+}
+.priceandname .name{
+    font-size: 17px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+}
+
+
+
+
+
+
+
+.aside-right{
+    margin: 2vw 0vw;
+    
+}
+.aside-right .categores{
+    /* border: 1px solid yellow; */
+    text-align: center;
+}
+.categores .categre-heading{
+    font-family: 'Times New Roman', Times, serif;
+    margin: 1vw 1vw;
+}
+.categores .categre-items{
+    /* border: 1px solid black; */
+    display: flex;
+    justify-content: space-around;
+}
+
+.categre-items .item{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.categre-items .add-item{
+    font-size: 25px;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.prices{
+    text-align: center;
+    margin-bottom: 1vw;
+}
+.prices .prices-heading{
+    margin-left: 40%;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.sizes{
+    text-align: center;
+    margin-bottom: 1vw;
+}
+
+.sizes .sizes-heading{
+    margin-left: 40%;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.sizes .size-kind{
+    border: 1px solid gray;
+    margin-right: 5px ;
+    padding: 2px;
+    font-weight: 500;
+}
+
+.colors{
+    text-align: center;
+    margin-bottom: 1vw;
+}
+
+.colors .colors-heading{
+    margin-left: 40%;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.colors .color-item{
+    display: flex;
+
+    justify-content: center;
+}
+.colors .red{
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    background-color: red;
+    margin-right: 10px;
+    cursor: pointer;
+}
+.colors .yellew{
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    background-color: yellow;
+    margin-right: 10px;
+    cursor: pointer;
+}
+.colors .blue{
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    background-color: blue;
+    margin-right: 10px;
+    cursor: pointer;
+}
+.colors .green{
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    background-color: green;
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+
+.Branding{
+    text-align: center;
+    margin-bottom: 1vw;
+}
+
+.Branding .Branding-heading{
+    margin-left: 40%;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.Branding-item .bran-item{
+  display: block;
+  font-family: 'Times New Roman', Times, serif;
+  margin-left: 50%;
+}
+
+.Distinctive{
+    margin-bottom: 1vw;
+}
+
+.Distinctive .Distinctive-heading{
+    margin-left: 10%;
+    font-family: 'Times New Roman', Times, serif;
+}
+.Distinctive .Distinctive-item1{
+    display: flex;
+    justify-content: space-around;
+    justify-content: center;
+ 
+    margin:1vw 0vw;
+}
+.Distinctive-item-detels{
+    margin-left: 2vw;
+}
+.Distinctive-item-detels .Distinctive-name{
+    font-family: 'Times New Roman', Times, serif;
+}
+.Distinctive-item-detels .Distinctive-price{
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 50%;
+    color: #7FD3DF;
+}
+
+.right-aside .addtocart-btn{
+    margin: 1vw 0vw ;
+    border: none;
+    background-color: #7FD3DF;
+    color: white;
+    padding: 7px 12px ;
+    border-radius: 8px;
+    margin-left: 3vw;
+}

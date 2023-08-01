@@ -1,0 +1,271 @@
+{
+  "Commentes": [
+    {
+      "Stars": "3 star",
+      "Comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis, rerum! Pariatur hic sequi illum aperiam magnam quae laudantium iste explicabo, sint sit. Necessitatibus nihil dignissimos aperiam quis, rerum consectetur labore?",
+      "Name": "mostafa adry",
+      "Email": "moustafa.kadry160789@ci.menofia.edu.eg",
+      "id": 6
+    },
+    {
+      "Stars": "nnn",
+      "Comment": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis, rerum! Pariatur hic sequi illum aperiam magnam quae laudantium iste explicabo, sint sit. Necessitatibus nihil dignissimos aperiam quis, rerum consectetur labore?",
+      "Name": "ahmed",
+      "Email": "mn@gmaill.com",
+      "id": 7
+    },
+    {
+      "Stars": "mn",
+      "Comment": "jjjjjjjjjjjjjjjjjjjjjjjjjjjj",
+      "Name": "nmn",
+      "Email": "mn@gmaill.com",
+      "id": 8
+    },
+    {
+      "Stars": "",
+      "Comment": "",
+      "Name": "",
+      "Email": "",
+      "id": 9
+    },
+    {
+      "Stars": "555",
+      "Comment": "555",
+      "Name": "adry",
+      "Email": "adry@gmail.com",
+      "id": 10
+    }
+  ],
+  "Products": [
+    {
+      "id": 1,
+      "imgurl": "/images/ProductCard1.png",
+      "price": "80 ",
+      "ProductName": "autumn t-shirt"
+    },
+    {
+      "id": 2,
+      "imgurl": "/images/ProductCard9.png",
+      "price": " 200 ",
+      "ProductName": "White T-shirt"
+    },
+    {
+      "id": 3,
+      "imgurl": "/images/ProductCard10.png",
+      "price": "900 ",
+      "ProductName": "Kids Blouse "
+    },
+    {
+      "id": 4,
+      "imgurl": "/images/ProductCard411.png",
+      "price": "1500 ",
+      "ProductName": "White dress "
+    },
+    {
+      "id": 5,
+      "imgurl": "/images/ProductCard2.png",
+      "price": "1000 ",
+      "ProductName": "White blouse"
+    },
+    {
+      "id": 6,
+      "imgurl": "/images/ProductCard3.png",
+      "price": "500 ",
+      "ProductName": "White black"
+    },
+    {
+      "id": 7,
+      "imgurl": "/images/ProductCard4.png",
+      "price": "800 ",
+      "ProductName": "White blouse"
+    },
+    {
+      "id": 8,
+      "imgurl": "/images/ProductCard5.png",
+      "price": "2000 ",
+      "ProductName": "White blouse"
+    },
+    {
+      "id": 9,
+      "imgurl": "/images/ProductCard6.png",
+      "price": "2500 ",
+      "ProductName": "Kids Shirt "
+    },
+    {
+      "id": 10,
+      "imgurl": "/images/ProductCard7.png",
+      "price": "920 ",
+      "ProductName": "men Shirt"
+    },
+    {
+      "id": 11,
+      "imgurl": "/images/ProductCard8.png",
+      "price": "1010 ",
+      "ProductName": "gairl blouse"
+    }
+  ],
+  "Users": [
+    {
+      "Name": "mostafa adry",
+      "Email": "mostafaelsheref256@gmail.com",
+      "Password": "111",
+      "id": 1
+    },
+    {
+      "Name": "",
+      "Email": "",
+      "Password": "",
+      "id": 2
+    },
+    {
+      "Name": "",
+      "Email": "",
+      "Password": "",
+      "id": 3
+    },
+    {
+      "Name": "",
+      "Email": "",
+      "Password": "",
+      "id": 4
+    },
+    {
+      "Name": "",
+      "Email": "",
+      "Password": "",
+      "id": 5
+    },
+    {
+      "Name": "",
+      "Email": "",
+      "Password": "",
+      "id": 6
+    },
+    {
+      "Name": "dd",
+      "Email": "",
+      "Password": "",
+      "id": 7
+    },
+    {
+      "Name": "",
+      "Email": "",
+      "Password": "",
+      "id": 8
+    }
+  ],
+  "Cart": [
+    {
+      "Color": "blue",
+      "Size": "SMALL",
+      "name": "Kids Shirt ",
+      "price": "2500 ",
+      "id": 9,
+      "img": "/images/ProductCard6.png",
+      "Counter": 3
+    },
+    {
+      "Color": "",
+      "Size": "",
+      "name": "White black",
+      "price": "500 ",
+      "id": 6,
+      "img": "/images/ProductCard3.png",
+      "Counter": 0
+    },
+    {
+      "Color": "",
+      "Size": "",
+      "name": "White T-shirt",
+      "price": "200 ",
+      "id": 2,
+      "img": "/images/ProductCard9.png",
+      "Counter": 0
+    }
+  ],
+  "SimilarProducr": [
+    {
+      "id": 1,
+      "imgurl": "/images/ProductCard1.png",
+      "price": "80",
+      "ProductName": "autumn t-shirt"
+    },
+    {
+      "id": 2,
+      "imgurl": "/images/ProductCard9.png",
+      "price": "100",
+      "ProductName": "White T-shirt"
+    },
+    {
+      "id": 3,
+      "imgurl": "/images/ProductCard10.png",
+      "price": "900 ",
+      "ProductName": "Kids Blouse "
+    },
+    {
+      "id": 4,
+      "imgurl": "/images/ProductCard411.png",
+      "price": "1500 ",
+      "ProductName": "White dress "
+    },
+    {
+      "id": 5,
+      "imgurl": "/images/ProductCard2.png",
+      "price": "1000 ",
+      "ProductName": "White blouse"
+    },
+    {
+      "id": 6,
+      "imgurl": "/images/ProductCard3.png",
+      "price": "500 ",
+      "ProductName": "White black"
+    },
+    {
+      "id": 7,
+      "imgurl": "/images/ProductCard4.png",
+      "price": "800 ",
+      "ProductName": "White blouse"
+    },
+    {
+      "id": 8,
+      "imgurl": "/images/ProductCard5.png",
+      "price": "2000 ",
+      "ProductName": "White blouse"
+    },
+    {
+      "id": 9,
+      "imgurl": "/images/ProductCard6.png",
+      "price": "2500 ",
+      "ProductName": "Kids Shirt "
+    },
+    {
+      "id": 10,
+      "imgurl": "/images/ProductCard7.png",
+      "price": "920 ",
+      "ProductName": "men Shirt"
+    },
+    {
+      "id": 11,
+      "imgurl": "/images/ProductCard8.png",
+      "price": "1010 ",
+      "ProductName": "gairl blouse"
+    }
+  ],
+  "Likes": [
+    {
+      "ProductId": 8,
+      "ProductImgurl": "/images/ProductCard5.png",
+      "id": 5
+    },
+    {
+      "ProductId": 6,
+      "ProductImgurl": "/images/ProductCard3.png",
+      "id": 6
+    },
+    {
+      "ProductId": 5,
+      "ProductImgurl": "/images/ProductCard2.png",
+      "id": 7
+    }
+  ]
+}

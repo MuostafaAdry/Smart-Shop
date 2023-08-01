@@ -1,0 +1,79 @@
+.show-comment2 {
+  width: 100%;
+  height: 70vh;
+  overflow: hidden;
+  transition: 0.5s ease;
+}
+
+.show-comment2:hover {
+  overflow: scroll;
+}
+
+.num-comment {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  margin-left: 80%;
+  margin-bottom: 5vw;
+}
+
+.img-deteles-photo .user-img {
+  width: 70%;
+  border-radius: 50%;
+  margin: -0px 0px 20px 500px;
+}
+
+.img-deteles-info {
+  text-align: center;
+}
+.img-deteles-info .theComment {
+  margin-left: -7vw;
+  max-width: 400px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.img-deteles-info .Assessment-stars {
+  display: flex;
+  margin-left: -0.58vw;
+}
+.img-deteles-info .Assessment-stars .FaStar {
+  color: orange;
+  margin-bottom: 1vw;
+}
+
+.img-deteles-info .userNmae {
+  margin-left: -7vw;
+  font-family: "Times New Roman", Times, serif;
+}
+
+@media only screen and (max-width: 280px) {
+  .img-deteles-photo .user-img {
+    width: 30%;
+    margin-left: 50vw;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .img-deteles-photo .user-img {
+    width: 30%;
+    margin-left: 50vw;
+  }
+}
+
+@media only screen and (max-width: 912px) {
+  .img-deteles-photo .user-img {
+    width: 50%;
+    margin-left: 50vw;
+  }
+  .img-deteles-info .userNmae {
+    margin-left: -70vw;
+  }
+  .img-deteles-info .Assessment-stars {
+    display: flex;
+    margin-left: -20vw;
+    
+  }
+  .img-deteles-info .theComment {
+    margin-left: -35vw;
+    max-width: 400px;
+    font-family: "Times New Roman", Times, serif;
+  }
+}

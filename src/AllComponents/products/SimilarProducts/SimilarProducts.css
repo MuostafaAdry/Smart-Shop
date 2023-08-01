@@ -1,0 +1,24 @@
+.SimilarProducts-img {
+  /* border: 1px solid red; */
+  width: 90%;
+  margin-top: 7vw;
+}
+.SimilarLike {
+  display: inline-block;
+  position: absolute;
+  margin: 15px 0px 0px 190px;
+  cursor: pointer;
+  font-size: 22px;
+}
+.SimilarProducts-formargin {
+  margin-bottom: 5vw;
+}
+
+.SimilarProducts-img .img {
+  width: 80%;
+}
+
+.SimilarProducts-heading {
+  text-align: center;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
